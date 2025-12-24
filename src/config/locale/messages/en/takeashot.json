@@ -1,0 +1,81 @@
+{
+    "dream_frame": {
+        "title": "Dream Frame",
+        "description": "Cross time and space to take a photo with your idol or crush.",
+        "step1": "Step 1: Select a Template",
+        "step2": "Step 2: Upload Photos and Generate",
+        "upload_label_a": "Upload Your Photo",
+        "upload_label_b": "Upload Their Photo",
+        "guide_a": "Your Photo: Clear face, front view, no occlusion.",
+        "guide_b": "Their Photo: Upload a clear photo of your favorite character or partner.",
+        "guide_avoid": "Avoid: Occlusion, blur, side view, or group photos.",
+        "metadata": {
+            "title": "Dream Frame - AI Creation",
+            "description": "Cross time and space to take a photo with your idol or crush."
+        }
+    },
+    "ai_couple": {
+        "title": "AI Couple",
+        "description": "A must-have for long-distance couples, generate sweet daily photos.",
+        "step1": "Step 1: Select a Template",
+        "step2": "Step 2: Upload Photos and Generate",
+        "upload_label_a": "Person A",
+        "upload_label_b": "Person B",
+        "guide_a": "Clear face, front view, well-lit portrait.",
+        "guide_b": "Try to keep the style and lighting consistent.",
+        "guide_avoid": "Avoid: Occlusion, blur, side view, or group photos.",
+        "metadata": {
+            "title": "AI Couple - AI Creation",
+            "description": "A must-have for long-distance couples, generate sweet daily photos."
+        }
+    },
+    "future_baby": {
+        "title": "Future Baby",
+        "description": "Curious about what your baby will look like? AI predicts the future.",
+        "step1": "Step 1: Select a Template",
+        "step2": "Step 2: Upload Photos and Generate",
+        "upload_label_a": "Father's Photo",
+        "upload_label_b": "Mother's Photo",
+        "guide_a": "Clear face, front view, no occlusion.",
+        "guide_b": "Clear face, front view, no occlusion.",
+        "guide_avoid": "Avoid: Occlusion, blur, side view, or group photos.",
+        "metadata": {
+            "title": "Future Baby - AI Prediction",
+            "description": "Curious about what your baby will look like? AI predicts the future."
+        }
+    },
+    "pet_companion": {
+        "title": "Pet Companion",
+        "description": "Record unique and warm moments with your furry friends.",
+        "step1": "Step 1: Select a Template",
+        "step2": "Step 2: Upload Photos and Generate",
+        "upload_label_a": "Upload Your Photo",
+        "upload_label_b": "Upload Your Pet",
+        "guide_a": "Your Photo: Clear face, front view, no occlusion.",
+        "guide_b": "Pet Photo: Upload a clear photo of your cat, dog, or other pets.",
+        "guide_avoid": "Avoid: Blur, low light, or photos with multiple people/animals.",
+        "metadata": {
+            "title": "Pet Companion - AI Creation",
+            "description": "Record unique and warm moments with your furry friends."
+        }
+    },
+    "common": {
+        "generate": "Generate Photo",
+        "generating": "Generating...",
+        "download": "Download HD",
+        "share": "Share",
+        "retry": "Try Again / Change Template",
+        "back_to_home": "Back to Home",
+        "back_to_templates": "Back to Templates",
+        "success": "🎉 Success! Your exclusive photo has been generated!",
+        "loading_messages": [
+            "AI is analyzing facial features...",
+            "Blending template style and lighting...",
+            "Performing high-definition processing...",
+            "Magic is happening, please wait..."
+        ],
+        "upload_tip": "Supports JPG/PNG, max size 5MB.",
+        "upload_error_size": "File too large, please select a photo under 5MB.",
+        "upload_error_gen": "AI generation failed, please try again later."
+    }
+}

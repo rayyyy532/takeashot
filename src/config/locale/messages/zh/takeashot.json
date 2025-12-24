@@ -1,0 +1,81 @@
+{
+    "dream_frame": {
+        "title": "梦想同框",
+        "description": "跨越时空，与你的偶像或暗恋对象“合影”。",
+        "step1": "步骤 1: 选择合照风格范本",
+        "step2": "步骤 2: 上传照片并生成合照",
+        "upload_label_a": "上传你的照片",
+        "upload_label_b": "上传TA的照片",
+        "guide_a": "你的照片：推荐人脸清晰、正脸、无遮挡的单人照。",
+        "guide_b": "TA的照片：请上传你喜爱的角色、人物或搭档的清晰照片，以获得最佳效果。",
+        "guide_avoid": "避免：脸部遮挡、模糊、侧面非正面、或多人合照。",
+        "metadata": {
+            "title": "梦想同框 - AI 创作",
+            "description": "跨越时空，与你的偶像或暗恋对象“合影”。"
+        }
+    },
+    "ai_couple": {
+        "title": "人物合照",
+        "description": "异地恋神器，生成甜蜜日常，不再受距离限制。",
+        "step1": "步骤 1: 选择合照风格范本",
+        "step2": "步骤 2: 上传照片并生成合照",
+        "upload_label_a": "人物 A",
+        "upload_label_b": "人物 B",
+        "guide_a": "人脸清晰、正脸、光线充足的单人全身或半身照。",
+        "guide_b": "双方照片风格、光线尽量统一。",
+        "guide_avoid": "避免：脸部遮挡、模糊、侧面非正面、或多人合照。",
+        "metadata": {
+            "title": "人物合照 - AI 创作",
+            "description": "异地恋神器，生成甜蜜日常，不再受距离限制。"
+        }
+    },
+    "future_baby": {
+        "title": "未来宝宝",
+        "description": "好奇你们的宝宝长什么样？AI 预测未来宝宝的长相。",
+        "step1": "步骤 1: 选择合照风格范本",
+        "step2": "步骤 2: 上传照片并生成合照",
+        "upload_label_a": "父亲照片",
+        "upload_label_b": "母亲照片",
+        "guide_a": "推荐人脸清晰、正脸、无遮挡的单人照。",
+        "guide_b": "推荐人脸清晰、正脸、无遮挡的单人照。",
+        "guide_avoid": "避免：脸部遮挡、模糊、侧面非正面、或多人合照。",
+        "metadata": {
+            "title": "未来宝宝 - AI 预测",
+            "description": "好奇你们的宝宝长什么样？AI 预测未来宝宝的长相。"
+        }
+    },
+    "pet_companion": {
+        "title": "人宠合影",
+        "description": "记录你和毛孩子独一无二的温馨时刻，创意无限。",
+        "step1": "步骤 1: 选择合照风格范本",
+        "step2": "步骤 2: 上传照片并生成合照",
+        "upload_label_a": "上传你的照片",
+        "upload_label_b": "上传你的宠物",
+        "guide_a": "你的照片： 推荐人脸清晰、正脸、无遮挡的单人照。",
+        "guide_b": "宠物照片： 请上传你的猫、狗或其他宠物的清晰照片，最好是正面或侧面全身照。",
+        "guide_avoid": "避免： 模糊、光线过暗或包含多个人或动物的照片。",
+        "metadata": {
+            "title": "人宠合影 - AI 创作",
+            "description": "记录你和毛孩子独一无二的温馨时刻，创意无限。"
+        }
+    },
+    "common": {
+        "generate": "生成合照",
+        "generating": "正在生成...",
+        "download": "下载高清图片",
+        "share": "分享到社群",
+        "retry": "再试一次/更换范本",
+        "back_to_home": "返回首页",
+        "back_to_templates": "返回范本选择",
+        "success": "🎉 创作成功！你的专属合照已生成！",
+        "loading_messages": [
+            "AI 正在分析人脸特征...",
+            "正在融合范本风格与光影...",
+            "正在进行高清化处理...",
+            "魔法正在发生中，请稍候片刻..."
+        ],
+        "upload_tip": "照片格式仅支持 JPG/PNG，单张图片大小需小于 5MB。",
+        "upload_error_size": "文件过大，请选择小于 5MB 的图片。",
+        "upload_error_gen": "AI 生成失败，请稍后重试。"
+    }
+}
