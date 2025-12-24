@@ -13,6 +13,7 @@ export interface Image {
 export interface Brand {
   title?: string;
   description?: string;
+  variant?: string;
   logo?: Image;
   url?: string;
   target?: string;
